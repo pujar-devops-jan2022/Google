@@ -1,0 +1,24 @@
+ssh -i "vpujardec.pem" ec2-user@ec2-3-143-224-226.us-east-2.compute.amazonaws.com
+
+172-31-19-183.
+
+
+ssh -i ec2-user@ec2-3.143.224.226
+
+
+
+ssh -i "vpujarjan2022.pem" ec2-user@ec2-3-16-181-208.us-east-2.compute.amazonaws.com
+172.31.17.179.
+
+
+
+https://dlcdn.apache.org/maven/maven-3/3.8.4/binaries/apache-maven-3.8.4-bin.zip
+
+
+github public
+https://github.com/vinayak-devops-dec2021/facebook.git
+git@github.com:vinayak-devops-dec2021/facebook.git
+
+
+https://github.com/orgs/vinayak-devops-dec2021/teams/facebook-devteam
+

@@ -1,0 +1,427 @@
+[14:37.31.494]  Starting MobaXterm
+[14:37.31.494]  
+[14:37.31.494]  BEGIN AdaptToGlobalDPI
+[14:37.31.494]      AdaptToGlobalDPI: DPI=96
+[14:37.31.494]      BEGIN LaunchLoadFlatIconsThreads
+[14:37.31.494]          BEGIN WaitForLoadFlatIconsThreads
+[14:37.31.494]          END WaitForLoadFlatIconsThreads
+[14:37.31.494]          BEGIN WaitForGenerateStdListThreads
+[14:37.31.494]          END WaitForGenerateStdListThreads
+[14:37.31.494]          Loading flat icons 16
+[14:37.31.494]          Loading flat icons 22
+[14:37.31.494]          Loading flat icons 64
+[14:37.31.494]          Loading extensions icons
+[14:37.31.494]      END LaunchLoadFlatIconsThreads
+[14:37.31.494]  END AdaptToGlobalDPI
+[14:37.31.494]  
+[14:37.31.494]  BEGIN AddMobaConsoleFont
+[14:37.31.494]  END AddMobaConsoleFont
+[14:37.31.494]  
+[14:37.31.494]  BEGIN GetMobaseStream
+[14:37.31.494]  END GetMobaseStream
+[14:37.31.494]  
+[14:37.31.494]  BEGIN MobaProfileDir detection
+[14:37.31.494]      BEGIN GetProfileDirScore(C:\Users\Vinayak\AppData\Roaming\)
+
+[14:37.32.400]          "C:\Users\Vinayak\AppData\Roaming\" does not seem to be writeable
+[14:37.32.400]          "C:\Users\Vinayak\AppData\Roaming\MobaXterm\MobaXterm.ini" already exists
+[14:37.32.400]          "C:\Users\Vinayak\AppData\Roaming\" is not a network path
+[14:37.32.400]      END GetProfileDirScore(C:\Users\Vinayak\AppData\Roaming\): 12
+[14:37.32.400]      BEGIN GetProfileDirScore(C:\Users\Vinayak\DOCUME~1\)
+[14:37.32.400]          "C:\Users\Vinayak\DOCUME~1\" seems to be writeable
+[14:37.32.400]          "C:\Users\Vinayak\DOCUME~1\MobaXterm\MobaXterm.ini" already exists
+[14:37.32.400]          "C:\Users\Vinayak\DOCUME~1\" is not a network path
+[14:37.32.400]      END GetProfileDirScore(C:\Users\Vinayak\DOCUME~1\): 36
+[14:37.32.400]      BEGIN GetProfileDirScore(C:\Users\Vinayak\AppData\Local\)
+[14:37.32.400]          "C:\Users\Vinayak\AppData\Local\" seems to be writeable
+[14:37.32.400]          "C:\Users\Vinayak\AppData\Local\MobaXterm\MobaXterm.ini" does not exist
+[14:37.32.400]          "C:\Users\Vinayak\AppData\Local\" is not a network path
+[14:37.32.400]      END GetProfileDirScore(C:\Users\Vinayak\AppData\Local\): 28
+[14:37.32.400]  END MobaProfileDir detection
+[14:37.32.400]  
+[14:37.32.400]  --> Selected MobaProfile directory: "C:\Users\Vinayak\DOCUME~1\"
+[14:37.32.400]  
+[14:37.32.400]  - MobaXterm version: 21.5 Build 4826
+[14:37.32.400]  - Command line: "C:\Users\Vinayak\Desktop\MobaXterm_Portable_v21.5\MobaXterm_Personal_21.5.exe"
+[14:37.32.400]  - Date: 2022-01-09
+[14:37.32.400]  - Windows version number: 10.0.2.19041.
+[14:37.32.400]  - Windows version name: Windows 10
+[14:37.32.400]  - Windows full name: Windows 10 Enterprise 2004 build 19041
+[14:37.32.400]  - Windows architecture: 64-bits
+[14:37.32.400]  - User language: English (United States)
+[14:37.32.400]  - CPU architecture: x86
+[14:37.32.400]  - Detected DPI: 96
+[14:37.32.400]  - Current DPI: 96
+[14:37.32.400]  - CurDir: C:\Users\Vinayak\Desktop\MOBAXT~1.5\
+[14:37.32.400]  - PersonalDir: C:\Users\Vinayak\DOCUME~1\
+[14:37.32.400]  - AppDataDir: C:\Users\Vinayak\AppData\Roaming\
+[14:37.32.400]  - LocalAppDataDir: C:\Users\Vinayak\AppData\Local\
+[14:37.32.400]  - DesktopDir: C:\Users\Vinayak\Desktop\
+[14:37.32.400]  - CustomProfileDir: 0
+[14:37.32.400]  - MobaProfileDir: C:\Users\Vinayak\DOCUME~1\
+[14:37.32.713]  - Free space in MobaProfileDir folder: 131000MB
+[14:37.32.713]  - TempDir: C:\Users\Vinayak\AppData\Local\Temp\
+[14:37.32.713]  - Free space in TempDir folder: 131000MB
+[14:37.32.713]  - Monitor #0: 1366x768
+[14:37.32.713]  - User name: Vinayak
+[14:37.32.713]  - Computer name: SAGAR53
+[14:37.32.713]  
+[14:37.32.713]  
+[14:37.32.713]  ####                            WARNING                            ####
+[14:37.32.713]  Windows system locale (1033) is different from
+[14:37.32.713]  the current MobaXterm process locale (16393).
+[14:37.32.713]  MobaXterm has switched to the system locale in order to avoid potential
+[14:37.32.713]  issues with Ansi/unicode/UTF-8 conversions.
+[14:37.32.713]  
+[14:37.32.713]  
+[14:37.32.713]  - Windows beta unicode support not set
+[14:37.32.713]  - Uptime: 0 days, 00:03:55
+[14:37.32.713]  - Windows PATH: C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Vinayak\AppData\Local\Microsoft\WindowsApps;
+[14:37.32.713]  - WSL PATH: C:\WINDOWS\Sysnative\wsl.exe
+[14:37.32.713]  
+[14:37.32.713]  BEGIN Form1.FormCreate
+[14:37.32.713]      Detecting installed/portable version
+[14:37.32.713]      --> portable version
+[14:37.32.713]      
+[14:37.32.713]      Detecting IniSettings
+[14:37.32.713]      An existing INI file has been detected in "C:\Users\Vinayak\DOCUME~1\MobaXterm\MobaXterm.ini".
+[14:37.32.713]      MobaXterm will use this path for INI file.
+[14:37.32.713]      MobaXterm will take its configuration from file "C:\Users\Vinayak\DOCUME~1\MobaXterm\MobaXterm.ini".
+[14:37.32.713]      (selected ini file seems to be writeable)
+[14:37.32.713]      --> IniSettings= C:\Users\Vinayak\DOCUME~1\MobaXterm\MobaXterm.ini
+[14:37.32.713]      
+[14:37.32.728]      
+[14:37.32.728]      We are using the "New" SSH engine
+[14:37.32.728]      
+[14:37.32.728]      
+[14:37.32.728]      Detecting ModeIni
+[14:37.32.728]      --> ModeIni= true
+[14:37.32.728]      
+[14:37.32.728]      Detecting CygUtils
+[14:37.32.728]      CygUtils32 detected
+[14:37.32.728]      --> Using CygPackage C:\Users\Vinayak\Desktop\MOBAXT~1.5\CygUtils.plugin
+[14:37.32.728]      
+[14:37.32.728]      Starting CygUtils package thread
+[14:37.32.728]      BEGIN GetCygUtilsPackageZip
+[14:37.32.728]      END GetCygUtilsPackageZip
+[14:37.32.728]      
+[14:37.32.728]      Detecting MobaXVTDir
+[14:37.32.728]      BEGIN IsFolderRW(C:\Users\Vinayak\AppData\Local\Temp\Mxt215)
+[14:37.32.760]      END IsFolderRW(C:\Users\Vinayak\AppData\Local\Temp\Mxt215) --> OK
+[14:37.32.760]      --> MobaXVTDir= C:\Users\Vinayak\AppData\Local\Temp\Mxt215
+[14:37.32.760]      
+[14:37.32.760]      Detecting BinExeDir
+[14:37.32.760]      --> BinExeDir= C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\
+[14:37.32.760]      
+[14:37.32.760]      Detecting MobaXVTHomeDir
+[14:37.32.760]      --> MobaXVTHomeDir= C:\Users\Vinayak\AppData\Local\Temp\Mxt215\tmp\home_Vinayak
+[14:37.32.760]      
+[14:37.32.760]      Skin detection
+[14:37.32.760]      Skin selected:
+[14:37.32.760]      Set Application Title
+[14:37.32.760]      Create SSH memory storage
+[14:37.32.760]      Clean custom shared sessions
+[14:37.32.760]      Adapting splash screen color to logo
+[14:37.32.760]      Detecting if another instance is running...
+[14:37.32.760]      No other instance is running. Cleaning potential files from any previous instance...
+
+[14:37.33.650]      Cleaning done.
+[14:37.33.650]      
+[14:37.33.650]      BEGIN ListWslDistrosFromRegistry(HKCU)
+[14:37.33.650]      END ListWslDistrosFromRegistry(HKCU)
+[14:37.33.650]      
+[14:37.33.650]      
+[14:37.33.650]      BEGIN ListWslDistrosFromRegistry(HKLM)
+[14:37.33.650]      END ListWslDistrosFromRegistry(HKLM)
+[14:37.33.650]      
+[14:37.33.650]      Loading skins
+[14:37.33.650]      
+[14:37.33.650]      Detected Default Windows theme setting
+[14:37.33.650]      Detected that MsWindows is in bright mode. Activating bright mode
+[14:37.33.650]      
+[14:37.33.650]  END Form1.Create
+[14:37.33.650]  
+[14:37.33.650]  
+[14:37.33.650]  CREATING Form4
+
+
+[14:37.36.510]  BEGIN Form4.Create
+[14:37.36.510]      BEGIN WaitForLoadFlatIconsThreads
+[14:37.36.510]      END WaitForLoadFlatIconsThreads
+[14:37.36.510]      BEGIN ReadCustomIcons
+[14:37.36.510]          No custom icon found.
+[14:37.36.510]      END ReadCustomIcons
+[14:37.36.510]      BEGIN LaunchGenerateStdListThreads
+[14:37.36.510]          BEGIN WaitForLoadFlatIconsThreads
+[14:37.36.510]          END WaitForLoadFlatIconsThreads
+[14:37.36.510]          BEGIN WaitForGenerateStdListThreads
+[14:37.36.510]          END WaitForGenerateStdListThreads
+[14:37.36.510]          Generating icons list 16 (real size 16)
+[14:37.36.510]          Generating icons list 22 (real size 22)
+[14:37.36.510]          Generating icons list 64 (real size 64)
+[14:37.36.510]      END LaunchGenerateStdListThreads
+[14:37.36.853]      NbPenguins = 4
+[14:37.36.853]      CoeffPenguins = 96
+[14:37.36.884]      BEGIN LoadBookmarksFromIni
+[14:37.36.884]          FindOrCreateTreeFolders() (1)
+[14:37.36.900]      END LoadBookmarksFromIni
+[14:37.36.900]      BEGIN LoadMacrosFromIni
+[14:37.36.900]      END LoadMacrosFromIni
+[14:37.36.900]      Autodetecting WSL sessions
+[14:37.36.900]      AutoDetecting WSL distribution "Ubuntu"
+[14:37.36.900]      BEGIN FindWslDistro(Ubuntu)
+[14:37.36.900]          result: C:\WINDOWS\Sysnative\wsl.exe -d ubuntu
+[14:37.36.900]      END FindWslDistro(ubuntu)
+[14:37.36.900]      AutoDetecting WSL distribution "Debian"
+[14:37.36.900]      BEGIN FindWslDistro(Debian)
+[14:37.36.900]          result: C:\WINDOWS\Sysnative\wsl.exe -d debian
+[14:37.36.900]      END FindWslDistro(debian)
+[14:37.36.900]      AutoDetecting WSL distribution "OpenSuse"
+[14:37.36.900]      BEGIN FindWslDistro(OpenSuse)
+[14:37.36.900]          result: C:\WINDOWS\Sysnative\wsl.exe -d opensuse
+[14:37.36.900]      END FindWslDistro(opensuse)
+[14:37.36.900]      AutoDetecting WSL distribution "SLES"
+[14:37.36.900]      BEGIN FindWslDistro(SLES)
+[14:37.36.900]          result: C:\WINDOWS\Sysnative\wsl.exe -d sles
+[14:37.36.900]      END FindWslDistro(sles)
+[14:37.36.900]      AutoDetecting WSL distribution "Kali"
+[14:37.36.900]      BEGIN FindWslDistro(Kali)
+[14:37.36.900]          result: C:\WINDOWS\Sysnative\wsl.exe -d kali
+[14:37.36.900]      END FindWslDistro(kali)
+[14:37.36.900]      Autodetecting PuTTY sessions
+[14:37.36.900]      Autodetecting SCRT sessions
+[14:37.36.900]      Autodetecting Exceed sessions
+[14:37.36.900]      Autodetecting MRemoteNG sessions
+[14:37.36.900]      Autodetecting SuperPuTTY sessions
+[14:37.36.900]      Loading buttons on the top toolbar
+[14:37.36.900]      Form4Create1
+[14:37.36.900]      Form4Create2
+[14:37.37.119]      BEGIN AdaptSidebarArrows
+[14:37.37.119]      END AdaptSidebarArrows
+[14:37.37.228]      Form4Create3
+[14:37.37.228]      GetMinWidth = 925
+[14:37.37.244]      GetMinHeight = 530
+[14:37.37.306]      Form4Create4
+[14:37.37.306]      IsNTFS(C:\) --> NTFS
+[14:37.37.306]      Slash drive is NTFS.
+[14:37.37.322]      Form4Create5
+[14:37.37.384]      Form4Create6
+[14:37.37.384]      Displaysidebarontheleft1Click: FormClick
+[14:37.37.572]      BEGIN AdaptSidebarArrows
+[14:37.37.572]      END AdaptSidebarArrows
+[14:37.37.572]      Form4Create7
+[14:37.37.572]      Form4Create8
+[14:37.37.572]      Form4Create9
+[14:37.37.572]      ShowButtonsbar1Click: FormClick
+[14:37.37.588]      Form4Create10
+[14:37.37.588]      Form4Create12
+[14:37.37.588]      SmallButtons1Click: FormClick
+[14:37.37.666]      GetMinWidth = 925
+[14:37.37.666]      GetMinHeight = 526
+[14:37.37.681]      Form4Create13
+[14:37.37.681]      Form4Create14
+[14:37.37.681]  END Form4.Create
+[14:37.37.681]  
+[14:37.37.681]  
+[14:37.37.681]  CREATING FormParams
+
+
+[14:37.39.275]  BEGIN TFormParams.FormCreate
+[14:37.39.353]  END TFormParams.FormCreate
+[14:37.39.353]  
+[14:37.39.353]  
+[14:37.39.353]  CREATING FormSessionEdit
+
+[14:37.40.369]  BEGIN FormSessionEdit.Create
+[14:37.40.369]      Pre-loading IP addresses list
+[14:37.40.369]      Loading default theme
+[14:37.40.369]      Building shells list
+[14:37.40.416]      Building WSL distributions list
+[14:37.40.478]      Building sessions list combobox
+[14:37.40.478]      Building advanced sessions settings tabcontrol
+[14:37.40.541]      Building basic sessions settings tabcontrol
+[14:37.40.603]      Selecting default session #0
+[14:37.40.603]      Adapting macros combo box
+[14:37.40.619]      Detecting default IP address
+[14:37.40.619]      BEGIN TFormSessionEdit.FindIP
+[14:37.40.619]          Waiting for IP addresses thread
+[14:37.40.619]          IP addresses list has 1 items
+[14:37.40.619]      END TFormSessionEdit.FindIP
+[14:37.40.619]      Disabling sessions which are not allowed by admin
+[14:37.40.619]  END FormSessionEdit.Create
+[14:37.40.619]  
+[14:37.40.619]  
+[14:37.40.619]  DONE CREATING FORMS
+[14:37.40.619]  
+[14:37.40.619]  
+[14:37.40.619]  
+[14:37.40.619]  
+[14:37.40.619]  BEGIN Form1.Show
+[14:37.40.619]  END Form1.Show
+[14:37.40.713]  
+[14:37.40.713]  Launching Form1.Timer1Timer
+[14:37.40.713]  
+[14:37.40.713]  BEGIN WaitForGetCygUtilsPackageZip
+[14:37.40.713]  END WaitForGetCygUtilsPackageZip
+[14:37.40.713]  
+[14:37.40.713]  CygUtils version: 3.12 (32 bits)
+[14:37.40.713]  
+[14:37.40.713]  
+[14:37.40.713]  
+[14:37.40.713]  
+[14:37.40.713]  
+[14:37.40.713]  ================================================================================
+[14:37.40.713]  ~    INI file content (C:\Users\Vinayak\DOCUME~1\MobaXterm\MobaXterm.ini)    ~
+[14:37.40.713]  ================================================================================
+[14:37.40.713]  
+[14:37.40.713]  
+[Misc]
+PasswordsInRegistry=0
+RightClickAction=1
+RightClickAssigned=1
+SessionP=132258197790
+
+[Bookmarks]
+SubRep=
+ImgNum=41
+
+[WindowPos_SAGAR53_1366_768]
+CompactMode=0
+MonitorCount=1
+Left=-8
+Top=-8
+Width=1382
+Height=744
+Maximized=1
+SidebarVisible=1
+SidebarWidth=240
+
+[SSH]
+SFTPShowDotFiles=1
+SFTPAsciiMode=0
+MonitorHost=1
+MonitorCPU=1
+MonitorRAM=1
+MonitorNetUp=1
+MonitorNetDown=1
+MonitorProcesses=0
+MonitoFDs=0
+MonitorUptime=1
+MonitorUsers=1
+MonitorPartitions=1
+MonitorNetstat=0
+
+[Display]
+SidebarRight=0
+C10Checked=1
+C11Checked=1
+C12Checked=1
+C13Checked=0
+C14Checked=0
+VisibleTabNum=1
+VisibleTabClose=1
+MenuAndButtons=2
+BtnType2=2
+
+[LastInstanceSessions]
+0= 
+1= 
+
+[14:37.40.713]  
+[14:37.40.713]  
+[14:37.40.713]  ================================================================================
+[14:37.40.713]  
+[14:37.40.713]  
+[14:37.40.713]  
+[14:37.40.713]  
+[14:37.40.713]  
+[14:37.40.713]  Detecting if a Master Password is required by INI file
+[14:37.40.713]  No Master Password required by INI file
+[14:37.40.713]  No master password detected. Identifying the need for a migration...
+[14:37.40.713]  Looking for previously stored passwords in INI file
+[14:37.40.713]  No stored password found in INI file
+[14:37.40.713]  NeedMigration:=false
+[14:37.40.713]  
+[14:37.40.713]  BEGIN CreerFstab
+[14:37.40.713]      CreerFstab: RootDirectory = C:/Users/Vinayak/AppData/Local/Temp/Mxt215
+[14:37.40.713]      CreerFstab: HomeDirectory = C:/Users/Vinayak/AppData/Local/Temp/Mxt215/tmp/HOME_V~1
+[14:37.40.744]      !!!! Exception EFCreateError: Cannot create file "C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\fstab". The process cannot access the file because it is being used by another process during SaveStringListToUnixFile(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\fstab)
+[14:37.40.744]  END CreerFstab
+[14:37.40.744]  BEGIN extraireFichiers1
+[14:37.40.744]      BEGIN CreerProfile
+[14:37.40.744]      END CreerProfile
+[14:37.40.744]      BEGIN CreerSshConfig
+[14:37.40.759]      END CreerSshConfig
+[14:37.40.759]      BEGIN CreerBaseProfile
+[14:37.40.759]          NEW PLUGIN: mobase
+[14:37.40.759]          BEGIN ProcessPlugin(mobase)
+[14:37.40.759]              BEGIN WaitForGetMobaseStream
+[14:37.40.759]              END WaitForGetMobaseStream
+[14:37.40.759]          END ProcessPlugin(mobase)
+[14:37.40.759]          NEW PLUGIN: C:\Users\Vinayak\Desktop\MOBAXT~1.5\CygUtils.plugin
+[14:37.40.759]          BEGIN ProcessPlugin(C:\Users\Vinayak\Desktop\MOBAXT~1.5\CygUtils.plugin)
+[14:37.40.775]          END ProcessPlugin(C:\Users\Vinayak\Desktop\MOBAXT~1.5\CygUtils.plugin)
+[14:37.40.838]      END CreerBaseProfile
+[14:37.40.838]      BEGIN MkGroupFile
+[14:37.41.134]          SaveStringListToUnixFile(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\group)
+[14:37.41.134]          !!!! Exception EFCreateError: Cannot create file "C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\group". The process cannot access the file because it is being used by another process during SaveStringListToUnixFile(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\group)
+[14:37.41.134]          MkGroupFile OK
+[14:37.41.134]      END MkGroupFile
+[14:37.41.134]      BEGIN MkPasswdFile
+[14:37.41.134]          Current Domain: SAGAR53
+[14:37.41.181]          !!!! Exception EFCreateError: Cannot create file "C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\passwd". The process cannot access the file because it is being used by another process during SaveStringListToUnixFile(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\passwd)
+[14:37.41.181]          MkPasswdFile OK
+[14:37.41.181]      END MkPasswdFile
+[14:37.41.181]      BEGIN CreerNsswitch
+
+[14:37.41.603]      END CreerNsswitch
+[14:37.41.603]      Request for file extraction: /bin/scrdaemons
+[14:37.41.603]      File scrdaemons extracted from CygUtils.plugin.
+[14:37.41.603]      CreateSymbolicLink(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\scrdaemons, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\init.d\tftp);
+[14:37.41.791]      CreateSymbolicLink(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\scrdaemons, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\init.d\ftp);
+[14:37.41.806]      CreateSymbolicLink(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\scrdaemons, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\init.d\http);
+[14:37.41.900]      CreateSymbolicLink(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\scrdaemons, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\init.d\ssh);
+[14:37.41.900]      CreateSymbolicLink(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\scrdaemons, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\init.d\telnet);
+[14:37.41.916]      CreateSymbolicLink(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\scrdaemons, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\init.d\nfs);
+[14:37.41.916]      CreateSymbolicLink(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\scrdaemons, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\init.d\vnc);
+[14:37.41.916]      Request for file extraction: /bin/cygtermd.exe
+[14:37.41.916]      File cygtermd.exe extracted from CygUtils.plugin.
+[14:37.41.916]      Request for file extraction: /bin/cygz.dll
+[14:37.41.916]      File cygz.dll extracted from CygUtils.plugin.
+[14:37.41.916]      Request for file extraction: /bin/cyggcc_s-1.dll
+[14:37.41.916]      File cyggcc_s-1.dll extracted from CygUtils.plugin.
+[14:37.41.916]      Request for file extraction: /bin/cygwin-console-helper.exe
+[14:37.41.916]      File cygwin-console-helper.exe extracted from CygUtils.plugin.
+[14:37.41.916]      Request for file extraction: /bin/ssh.exe
+[14:37.41.931]      File ssh.exe extracted from CygUtils.plugin.
+[14:37.41.931]      Request for file extraction: /etc/bash.bash_logout
+[14:37.41.931]      Request for file extraction: /etc/profile.d
+[14:37.41.931]      Request for file extraction: /etc/profile.d/*
+[14:37.41.931]      CreerRaccourciVersMobaXterm(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\MobaListPorts, -listports);
+[14:37.41.931]      CreerRaccourciVersMobaXterm(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\MobaPictureViewer, -picview);
+[14:37.41.931]      CreerRaccourciVersMobaXterm(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\MobaTextEditor, -edit);
+[14:37.41.931]      CreerRaccourciVersMobaXterm(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\MobaGitEditor, -gitedit);
+[14:37.41.931]      CreerRaccourciVersMobaXterm(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\MobaCompareFiles, -compfiles);
+[14:37.41.931]      CreerRaccourciVersMobaXterm(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\MobaCompareFolders, -compfolders);
+[14:37.41.931]      Request for file extraction: /usr/share/terminfo/78/xterm
+[14:37.41.931]      File xterm extracted from CygUtils.plugin.
+[14:37.41.931]      Request for file extraction: /usr/share/terminfo/63/cygwin
+[14:37.41.931]      File cygwin extracted from CygUtils.plugin.
+[14:37.41.931]      Request for file extraction: /etc/bash_completion
+[14:37.41.931]      File bash_completion extracted from CygUtils.plugin.
+[14:37.41.931]      Request for file extraction: /usr/share/zoneinfo/posixrules
+[14:37.41.931]      File posixrules extracted successfully.
+[14:37.41.947]      Request for file extraction: /etc/inputrc
+[14:37.41.947]      File inputrc extracted from CygUtils.plugin.
+[14:37.41.947]  END extraireFichiers1
+[14:37.41.947]  CreateSymbolicLink(/proc/registry, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\registry);
+[14:37.41.947]  CreateSymbolicLink(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\bash.exe, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\bin\sh);
+[14:37.41.947]  CreateSymbolicLink(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\drives, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\cygdrive);
+[14:37.41.947]  CreateSymbolicLink(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\drives, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\mnt);
+[14:37.41.947]  CreateSymbolicLink(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\drives, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\media);
+[14:37.41.947]  CreateSymbolicLink(/proc/registry, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\registry);
+[14:37.41.978]  CreateSymbolicLink(C:\WINDOWS\system32\drivers\etc\hosts, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\hosts);
+[14:37.41.978]  CreateSymbolicLink(C:\WINDOWS\system32\drivers\etc\networks, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\networks);
+[14:37.41.978]  CreateSymbolicLink(C:\WINDOWS\system32\drivers\etc\protocol, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\protocol);
+[14:37.41.994]  CreateSymbolicLink(C:\WINDOWS\system32\drivers\etc\services, C:\Users\Vinayak\AppData\Local\Temp\Mxt215\etc\services);
+[14:37.42.009]  !!!! Exception EFCreateError: Cannot create file "C:\Users\Vinayak\AppData\Local\Temp\Mxt215\tmp\home_Vinayak\README.txt". The process cannot access the file because it is being used by another process during SaveStringListToUnixFile(C:\Users\Vinayak\AppData\Local\Temp\Mxt215\tmp\home_Vinayak\README.txt)

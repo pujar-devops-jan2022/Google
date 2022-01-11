@@ -1,0 +1,48 @@
+echo "for loop demo starts"
+for ((a=100;a<=1;a--))
+do
+echo $a
+done
+echo "for loop demo over.."
+
+
+
+echo "while loop demo starts"
+a=1
+while [$a  -le 5]
+do
+echo $a
+a= `expr $a+a`
+done
+echo "while loop demo over"
+
+
+echo "function demo..."
+greetfn()
+{
+echo "heloo guys."
+echo "gm/ga/hge..."
+echo "today date is ...'
+}
+echo "function are very usefull to e-use the code"
+echo "calling function"
+
+greetfn
+
+
+Host *
+ServerAliveInterval 30
+ServerAliveCountMax 2
+
+
+  echo "while loop demo starts"
+       a=1
+       while [ $a  -lt 100 ]
+       do
+       echo $a
+       a=`expr $a + 1`
+       done
+       echo "while loop demo over"
+
+
+
